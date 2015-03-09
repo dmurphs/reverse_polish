@@ -1,0 +1,10 @@
+Daniel Murphy
+File: README
+
+This is a program that converts an infix expression to a postfix expression and evaluates the postfix expression.
+It takes an infix expression from the user and runs it through these processes.
+
+Files: main.cpp, postfix.cpp, infix.cpp, postfix.h, infix.h, stack.h, stack.cpp, and makefile
+
+The makefile has targets: run, main.o, stack.o, and clean.
+The command make run will create an executable file to run the program.
